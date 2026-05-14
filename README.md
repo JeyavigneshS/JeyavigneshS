@@ -77,7 +77,7 @@ Sri Shathi Institute of Engineering and Technology - Coimbatore
   <a href="mailto:s.jeyavignesh18@gmail.com">
     <img src="https://img.shields.io/badge/Email-s.jeyavignesh18@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/charanarani](https://www.linkedin.com/in/jeyavignesh-s-193b18225/)">
+  <a href="https://www.linkedin.com/in/jeyavignesh-s-193b18225/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://github.com/JeyavigneshS">
